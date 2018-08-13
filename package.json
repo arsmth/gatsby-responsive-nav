@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-starter-hello-world",
+  "description": "Gatsby hello world starter",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.0-14",
+    "@fortawesome/free-brands-svg-icons": "^5.1.0-11",
+    "@fortawesome/free-solid-svg-icons": "^5.1.0-11",
+    "@fortawesome/react-fontawesome": "0.1.0-11",
+    "gatsby": "^2.0.0-beta.98",
+    "gatsby-image": "^1.0.55",
+    "gatsby-plugin-sharp": "^1.6.48",
+    "gatsby-plugin-styled-components": "^2.0.11",
+    "gatsby-transformer-sharp": "^1.6.27",
+    "polished": "^1.9.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "styled-components": "^3.4.2",
+    "typeface-ibm-plex-sans": "0.0.58"
+  }
+}
