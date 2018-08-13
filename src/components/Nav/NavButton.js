@@ -16,10 +16,6 @@ const NavButton = styled.button`
   ${p => p.active && css`
     background: rgba(0, 0, 0, 0.07);
   `}
-  // &:focus {
-  //   border: ${rem(2)} solid currentColor;
-  //   border-radius: ${rem(2)};
-  // }
 `
 
 export default NavButton
